@@ -1,0 +1,29 @@
+.ui-datepicker,
+.ui-datepicker table,
+.ui-datepicker tr,
+.ui-datepicker td,
+.ui-datepicker th {
+  margin: 0;
+  padding: 0;
+  border: none;
+  border-spacing: 0;
+}
+
+.ui-datepicker {
+  width: 26%;
+  font-family: Tahoma;
+  font-size: 18px;
+  background: #fff;
+  border-radius: 4px;
+  border: solid 1px #e91e62 !important;
+}
+
+.ui-datepicker-header {
+  position: relative;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d6d6d6;
+}
+
+.ui-datepicker-title {
+  text-align: center;
+}
